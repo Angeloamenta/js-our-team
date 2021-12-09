@@ -67,6 +67,9 @@ for (let i = 0; i < team.length; i++) {
           </div>
    `
 }
+
+// bonus con immagine mario.jpg, nino.jpg
+
 const inputName = document.getElementById('name');
 const inputRole = document.getElementById('role');
 const inputImg = document.getElementById('image');
